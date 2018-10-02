@@ -42,7 +42,8 @@ If you want to be a reliability engineer or operations engineer, study more from
 - ~~[What you Won't See Covered](#what-you-wont-see-covered)~~
 - ~~[The Daily Plan](#the-daily-plan)~~
 - ~~[Prerequisite Knowledge](#prerequisite-knowledge)~~
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- ~~[Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)~~
+    - Good short review candidate (Specifically, 'a delicate intro to analysis' and 'big o cheat sheet')
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
     - [Linked Lists](#linked-lists)
@@ -491,7 +492,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
+- [x] [Cheat sheet](http://bigocheatsheet.com/)
 
 
     If some of the lectures are too mathy, you can jump down to the bottom and
